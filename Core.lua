@@ -3,4 +3,5 @@ local _G = _G
 
 if Sku.Loc == "deDE" then
 	Sku.AudiodataPath = "SkuAudioData_fast_de"
+	Sku.AudiodataExtraSpeed = -20
 end
